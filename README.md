@@ -1,5 +1,5 @@
 # TestingGrounds
-Hunger Games inspired shooter
+Hunger Games inspired shooter. Made by ben and sam etc
 
 ## Getting Started
 Download and import the contents into UnrealEngine 4.19.2 or newer.
@@ -15,11 +15,18 @@ Say what the step will be
 
 // simply insert 4 spaces or a tab to make a code block
 
-### Deployment
+## Deployment
 Additional notes about how to deploy this on a live system
 
-### Build With
+## Built With
 
-* atoia faoifh asdfij
-* asfg sdgszd
+* Unreal Engine 4.19.2 or newer
+* Visual Studio 2017
+* Blender
 
+## Contributing
+
+Please read CONTRIBUTING FILE for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Authors
+* Marko Simunovic - following the course material
