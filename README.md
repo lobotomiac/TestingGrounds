@@ -35,4 +35,6 @@ Please read CONTRIBUTING FILE for details on our code of conduct, and the proces
 licence here
 
 ## Acknowledgments
+* Huge thanks to Ben Tristem for making the Course
+* too many to count but the whole comunity at gamedev.tv
 
