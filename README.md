@@ -30,3 +30,9 @@ Please read CONTRIBUTING FILE for details on our code of conduct, and the proces
 
 ## Authors
 * Marko Simunovic - following the course material
+
+## License
+licence here
+
+## Acknowledgments
+
