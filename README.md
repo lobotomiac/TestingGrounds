@@ -1,32 +1,20 @@
 # TestingGrounds
-Hunger Games inspired shooter. Made by ben and sam etc
+Hunger Games inspired shooter. Made by Ben Tristem and Sam Pattuzzi for The Unreal Engine Developer Course that you can check out [here](https://www.udemy.com/unrealcourse/learn/v4/overview)
 
 ## Getting Started
-Download and import the contents into UnrealEngine 4.19.2 or newer.
+Download and import the contents into UnrealEngine 4.19.2.
 
 ### Prerequisites
-Things you need to install the software and how to install them
+To text the game you'd need UnrealEngine 4.19.2 for now, hopefully I learn to pack this as a stand alone game by the end.
 
-### Installing
-A step by step series of examples that tell you how to get a development env running.
-Say what the step will be
-
-    Example
-
-// simply insert 4 spaces or a tab to make a code block
-
-## Deployment
-Additional notes about how to deploy this on a live system
 
 ## Built With
 
-* Unreal Engine 4.19.2 or newer
+* Unreal Engine 4.19.2
 * Visual Studio 2017
-* Blender
 
 ## Contributing
 
-Please read CONTRIBUTING FILE for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 * Marko Simunovic - following the course material
