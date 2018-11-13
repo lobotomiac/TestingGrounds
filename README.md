@@ -1,5 +1,6 @@
 # TestingGrounds
-Hunger Games inspired shooter. Made by Ben Tristem and Sam Pattuzzi for The Unreal Engine Developer Course that you can check out [here](https://www.udemy.com/unrealcourse/learn/v4/overview)
+Hunger Games inspired shooter. Made by Ben Tristem and Sam Pattuzzi for The Complete Unreal Engine Developer Course that you can check out [here](https://www.udemy.com/unrealcourse/learn/v4/overview)
+Feel free to play around with the files here as they are purely for educational purposes for myself and anyone else who might find them interesting and worthwhile. 
 
 ## Getting Started
 Download and import the contents into UnrealEngine 4.19.2.
