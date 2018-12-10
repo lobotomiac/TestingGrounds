@@ -23,9 +23,8 @@ EBTNodeResult::Type UNextWaypoint::ExecuteTask(UBehaviorTreeComponent & OwnerCom
 	if (PatrolPoints.Num() == 0)
 	{
 		UE_LOG(LogTemp, Warning, TEXT("%s missing Patrol Points!"), *ControlledPawn->GetName())
-		if (!ensure(PatrolRoute)) { return EBTNodeResult::Failed; }
+		return EBTNodeResult::Failed;
 	}
-	
 	
 	// SetNextWaypoint
 	//auto NumberOfPatrolPoints = PatrolPoints.Num();
